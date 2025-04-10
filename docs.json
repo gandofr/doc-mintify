@@ -58,9 +58,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Site web",
+          "href": "https://gando.pro",
+          "icon": "website"
         },
         {
           "anchor": "Community",
