@@ -80,7 +80,7 @@
             "group": "Gestion des clients",
             "pages": [
               "features/customers/types",
-              "features/customers/webhook"
+              "features/customers/informations"
             ]
           },
           {
