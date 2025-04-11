@@ -30,6 +30,15 @@
             ]
           },
           {
+            "group": "Conditions et Confidentialié",
+            "pages": [
+              "terms-policy/cguv",
+              "terms-policy/policy",
+              "terms-policy/referral",
+              "terms-policy/cookie"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
