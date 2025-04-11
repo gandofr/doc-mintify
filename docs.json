@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Premiers pas",
+            "group": "Compte",
             "pages": [
-              "introduction",
+              "account/sing-up",
               "howtomake",
               "development"
             ]
