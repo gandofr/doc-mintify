@@ -90,8 +90,8 @@
           {
             "group": "Solde",
             "pages": [
-              "features/balance/manage",
-              "features/balance/webhook"
+              "features/balance/view",
+              "features/balance/transfer"
             ]
           }
         ]
