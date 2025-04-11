@@ -30,12 +30,6 @@
             ]
           },
           {
-            "group": "Compte",
-            "pages": [
-              "account/sign-up",
-            ]
-          },
-          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
