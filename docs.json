@@ -22,6 +22,14 @@
             ]
           },
           {
+            "group": "Premiers pas",
+            "pages": [
+              "introduction",
+              "howtomake",
+              "development"
+            ]
+          },
+          {
             "group": "Compte",
             "pages": [
               "account/sign-up",
