@@ -79,7 +79,7 @@
           {
             "group": "Gestion des clients",
             "pages": [
-              "features/customers/delete",
+              "features/customers/types",
               "features/customers/webhook"
             ]
           },
