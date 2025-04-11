@@ -22,10 +22,10 @@
             ]
           },
           {
-            "group": "Compte",
+            "group": "Général",
             "pages": [
-              "account/sign-up",
-              "account/billing",
+              "general/account/sign-up",
+              "general/account/forgotpassword",
               "development"
             ]
           },
