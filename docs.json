@@ -73,11 +73,7 @@
               "features/deposit/how-to",
               "features/deposit/create",
               "features/deposit/delete",
-              "features/deposit/litiges",
-              "features/deposit/get",
-              "features/deposit/create",
-              "features/deposit/delete",
-              "features/deposit/webhook"
+              "features/deposit/disputes"
             ]
           },
           {
