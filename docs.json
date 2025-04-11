@@ -85,7 +85,8 @@
             "pages": [
               "features/customers/delete",
               "features/customers/webhook"
-            ] 
+            ]
+          },
           {
             "group": "Solde",
             "pages": [
