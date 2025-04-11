@@ -71,6 +71,7 @@
             "group": "Caution",
             "pages": [
               "features/deposit/how-to",
+              "features/deposit/deposit-preauthorization",              
               "features/deposit/capture",
               "features/deposit/close",
               "features/deposit/disputes"
