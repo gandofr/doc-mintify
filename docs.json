@@ -24,7 +24,7 @@
           {
             "group": "Compte",
             "pages": [
-              "account/sing-up",
+              "account/sign-up",
               "howtomake",
               "development"
             ]
