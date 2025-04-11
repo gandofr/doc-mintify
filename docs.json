@@ -55,9 +55,16 @@
         "tab": "Fonctionnalités",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Aperçu",
             "pages": [
               "features/introduction"
+            ]
+          },
+          {
+            "group": "Gestion des clients",
+            "pages": [
+              "features/customers/delete",
+              "features/customers/webhook"
             ]
           },
           {
