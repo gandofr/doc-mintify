@@ -70,7 +70,7 @@
           {
             "group": "Caution",
             "pages": [
-              "features/deposit/get",
+              "features/deposit/manage",
               "features/deposit/create",
               "features/deposit/delete",
               "features/deposit/webhook",
