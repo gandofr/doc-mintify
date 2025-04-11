@@ -71,8 +71,8 @@
             "group": "Caution",
             "pages": [
               "features/deposit/how-to",
-              "features/deposit/create",
-              "features/deposit/delete",
+              "features/deposit/capture",
+              "features/deposit/close",
               "features/deposit/disputes"
             ]
           },
