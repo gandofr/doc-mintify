@@ -52,7 +52,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Fonctionnalités",
         "groups": [
           {
             "group": "API Documentation",
@@ -61,12 +61,16 @@
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Caution",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "features/deposit/get",
+              "features/deposit/create",
+              "features/deposit/delete",
+              "features/deposit/webhook",
+              "features/deposit/get",
+              "features/deposit/create",
+              "features/deposit/delete",
+              "features/deposit/webhook"
             ]
           }
         ]
