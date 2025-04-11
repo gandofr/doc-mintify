@@ -25,7 +25,7 @@
             "group": "Compte",
             "pages": [
               "account/sign-up",
-              "howtomake",
+              "account/billing",
               "development"
             ]
           },

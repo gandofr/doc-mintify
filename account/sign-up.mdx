@@ -5,7 +5,7 @@ sidebarTitle: "Inscription"
 ---
 
 <Info>
-  [Rendez-vous sur le site **Gando** et cliquez sur le bouton **« Inscrivez-vous »**.](https://app.gando.pro/auth/sign-up)
+  [****Rendez-vous sur le site Gando et cliquez sur le bouton « Inscrivez-vous ».****](https://app.gando.pro/auth/sign-up)
 </Info>
 
 Ensuite, suivez ces étapes :
@@ -37,10 +37,11 @@ A local preview of your documentation will be available at `http://localhost:300
 
 If you attempt to run Mintlify on a port that's already in use, it will use the next available port:
 
-- Sélectionnez le type de véhicule,
-- Sélectionnez vos besoins,
-- Saisissez vos données personnelles et
-- Les informations sur votre société .
+- Indiquez votre nom et prénom
+- Adresse email
+- Numéro de téléphone
+- Mot de passe 
+- Nombre de véhicules au sein de votre flotte
 
 ```
 mintlify dev --port 333
@@ -54,7 +55,14 @@ Port 3000 is already in use. Trying 3001 instead.
 
 ## Vérification de l'adresse email
 
-Une fois vos informations enregistrés vous serez redirigé vers une page, vous recevez par la suite 
+Une fois vos informations enregistrés vous serez redirigé vers une page, vous recevez par la suite un lien de confirmation par mail.
+
+<Frame>
+  <img
+    src="/images/email-verification.svg"
+    style={{ borderRadius:"0.5rem" }}
+  />
+</Frame>
 
 <CodeGroup>
 
@@ -69,33 +77,26 @@ yarn global upgrade mintlify
 
 </CodeGroup>
 
-## Validating Links
+## Page de paiement
 
-The CLI can assist with validating reference links made in your documentation. To identify any broken links, use the following command:
+Vous serez redirigez vers la page de paiement ou vous aurez accès aux offres.
 
 ```bash
 mintlify broken-links
 ```
 
-## Deployment
+## Période d'essaie
 
 <Tip>
-  Unlimited editors available under the [Pro
-  Plan](https://mintlify.com/pricing) and above.
+  Vous aurez accès à **30 jours gratuit.**
 </Tip>
 
 If the deployment is successful, you should see the following:
 
-<Frame>
-  <img
-    src="/images/email-verification.svg"
-    style={{ borderRadius:"0.5rem" }}
-  />
-</Frame>
+## La carte bleu est elle nécessaire ?
 
-## Code Formatting
-
-We suggest using extensions on your IDE to recognize and format MDX. If you're a VSCode user, consider the [MDX VSCode extension](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) for syntax highlighting, and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for code formatting.
+**Oui.**\
+Il sera nécessaire pour vous d'enregistrer un moyen de paiement lors de votre inscription mais rassurez vous vous ne serez débité, qu'une la période d'essaie terminé
 
 ## Troubleshooting
 
