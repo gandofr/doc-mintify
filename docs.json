@@ -61,10 +61,10 @@
             ]
           },
           {
-            "group": "Gestion des clients",
+            "group": "Gestion des véhicules",
             "pages": [
-              "features/customers/delete",
-              "features/customers/webhook"
+              "features/products/create",
+              "features/products/data"
             ]
           },
           {
@@ -78,6 +78,19 @@
               "features/deposit/create",
               "features/deposit/delete",
               "features/deposit/webhook"
+            ]
+          },
+          {
+            "group": "Gestion des clients",
+            "pages": [
+              "features/customers/delete",
+              "features/customers/webhook"
+            ] 
+          {
+            "group": "Solde",
+            "pages": [
+              "features/balance/manage",
+              "features/balance/webhook"
             ]
           }
         ]
