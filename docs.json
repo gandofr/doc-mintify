@@ -22,34 +22,21 @@
             ]
           },
           {
-            "groups": [
-          {
             "group": "Général",
             "pages": [
               {
-               "title": "Account",
-              "pages": [
-                "account/sign-up",
-                "account/forgotpassword"
+                "title": "Account",
+                "pages": [
+                  "general/account/sign-up",
+                  "general/account/forgotpassword"
                 ]
               },
-            "billing",
-            "development"
-                ]
-              }
+              "general/billing",
+              "general/sign-up"
             ]
           },
           {
-            "group": "Général",
-            "pages": [
-              "account",
-              "account/sign-up",
-              "account/forgotpassword",
-              "development"
-            ]
-          },
-          {
-            "group": "Conditions et Confidentialié",
+            "group": "Conditions et Confidentialité",
             "pages": [
               "terms-policy/cguv",
               "terms-policy/policy",
