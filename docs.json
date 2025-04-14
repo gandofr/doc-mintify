@@ -24,6 +24,7 @@
           {
             "group": "Général",
             "pages": [
+              "account",
               "account/sign-up",
               "account/forgotpassword",
               "development"
