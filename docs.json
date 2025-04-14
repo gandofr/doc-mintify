@@ -24,14 +24,6 @@
           {
             "group": "Général",
             "pages": [
-          {
-            "title": "Compte",
-            "children": [
-              "account",
-              "account/sign-up",
-              "account/forgotpassword"
-            ]
-            },
               "account",
               "account/sign-up",
               "account/forgotpassword",
