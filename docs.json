@@ -22,6 +22,24 @@
             ]
           },
           {
+            "groups": [
+          {
+            "group": "Général",
+            "pages": [
+              {
+               "title": "Account",
+              "pages": [
+                "account/sign-up",
+                "account/forgotpassword"
+                ]
+              },
+            "billing",
+            "development"
+                ]
+              }
+            ]
+          },
+          {
             "group": "Général",
             "pages": [
               "account",
