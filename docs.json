@@ -3,9 +3,12 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#735DF3",
-    "light": "#735DF3",
-    "dark": "#735DF3"
+    "primary": "
+#735DF3",
+    "light": "
+#735DF3",
+    "dark": "
+#735DF3"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -24,19 +27,14 @@
           {
             "group": "Général",
             "pages": [
-              {
-                "title": "Account",
-                "pages": [
-                  "general/account/sign-up",
-                  "general/account/forgotpassword"
-                ]
-              },
-              "general/billing",
-              "general/sign-up"
+              "account",
+              "account/sign-up",
+              "account/forgotpassword",
+              "development"
             ]
           },
           {
-            "group": "Conditions et Confidentialité",
+            "group": "Conditions et Confidentialié",
             "pages": [
               "terms-policy/cguv",
               "terms-policy/policy",
