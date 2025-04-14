@@ -1,14 +1,23 @@
 ---
-title: "En tant que client comment effectué une caution"
+title: "En tant que client, que faire ?"
 description: "Description of your new file."
 sidebarTitle: "Pré-autorisation de 29 jours"
 ---
 
-## Aperçu
-
-**Disponibilité:**
+## Quels sont les types de cartes accéptés ?
 
 - `CB_VISA_MASTERCARD`seulement
+
+Nous n'acceptons pas les cartes suivantes :
+
+- Les American Express
+- Les Diners Club International
+- Les Visa Electron
+- Les Mastercard Maestro
+- Les cartes de débit à autorisation systématique
+- Les cartes prépayées
+- Les e-cartes bancaires
+- Les Girocard
 
 Le flux de base de la fonction de préautorisation de 30 jours de Mangopay fonctionne comme suit :
 
@@ -110,3 +119,18 @@ Le versement initial et le complément bénéficient tous deux de l'autorisation
 Le montant du complément peut être supérieur au montant initialement préautorisé, mais l'émetteur a le droit de refuser le complément si le montant (ou le calendrier) ne sont pas satisfaisants.
 
 Si le paiement complémentaire est refusé, vous pouvez le réessayer sur le même point de terminaison.
+
+## Étape 1 : Préautorisation
+
+- **Réserver les fonds** : Tout d'abord, vous devez réserver les fonds sur la carte de votre client. Cela signifie que vous demandez à la banque de bloquer un certain montant sur la carte, mais sans le débiter immédiatement.
+- **Informations nécessaires** : Vous aurez besoin des informations de la carte et du montant que vous souhaitez réserver.
+
+## Étape 2 : Capture des fonds
+
+- **Débiter les fonds réservés** : Une fois que les fonds sont réservés, vous pouvez les débiter réellement. Cela s'appelle la capture.
+- **Choisir le montant à capturer** : Vous pouvez choisir de capturer tout le montant réservé ou une partie de celui-ci, selon ce que vous avez prévu avec votre client.
+- **Cas particuliers** : Dans certains cas, vous pourriez devoir rediriger votre client vers une page sécurisée pour vérifier son identité (c'est ce qu'on appelle 3DS).
+
+## Que faire en cas d'échec ?
+
+Si jamais vous recevez un message d'erreur, assurez vous dans un premier temps de ce genre que votre carte à les fonds suffisant
