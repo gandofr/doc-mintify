@@ -29,6 +29,7 @@
               "account/sign-up",
               "account/forgotpassword",
               "development"
+              "cant-login-platform"
             ]
           },
           {
