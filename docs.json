@@ -23,13 +23,18 @@
             ]
           },
           {
-            "group": "Général",
+            "group": "Compte",
             "pages": [
-              "general/account",
-              "general/account/sign-up",
-              "general/account/forgotpassword",
-              "general/development",
-              "general/cant-login-platform"
+              "account/sign-up",
+              "account/forgotpassword",
+              "account/cant-login-platform"
+            ]
+          },
+          {
+            "group": "Abonnement et facturation",
+            "pages": [
+              "billing/invoicing",
+              "billing/fees"
             ]
           },
           {
