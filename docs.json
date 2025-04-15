@@ -88,6 +88,12 @@
             ]
           },
           {
+            "group": "Paiements",
+            "pages": [
+              "features/payment/payment-methods"
+            ]
+          },
+          {
             "group": "Solde",
             "pages": [
               "features/balance/view",
@@ -135,7 +141,6 @@
   },
   "footer": {
     "socials": {
-      "Mail": "mailto:contact@gando.pro",
       "linkedin": "https://www.linkedin.com/company/gando-france/?viewAsMember=true"
     }
   }
