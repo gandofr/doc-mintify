@@ -25,11 +25,11 @@
           {
             "group": "Général",
             "pages": [
-              "account",
+              "general/account",
               "general/account/sign-up",
-              "account/forgotpassword",
-              "development",
-              "cant-login-platform"
+              "general/account/forgotpassword",
+              "general/development",
+              "general/cant-login-platform"
             ]
           },
           {
