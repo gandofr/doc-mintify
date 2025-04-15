@@ -119,7 +119,11 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Contacter le service commerciale",
+        "href": "mailto:contact@gando.pro"
+      }
+      {
+        "label": "Demande d'assistance",
         "href": "mailto:contact@gando.pro"
       }
     ],
@@ -131,6 +135,7 @@
   },
   "footer": {
     "socials": {
+      "Mail": "mailto:contact@gando.pro"
       "linkedin": "https://www.linkedin.com/company/gando-france/?viewAsMember=true"
     }
   }
