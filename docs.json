@@ -26,7 +26,7 @@
             "group": "Général",
             "pages": [
               "account",
-              "account/sign-up",
+              "general/account/sign-up",
               "account/forgotpassword",
               "development",
               "cant-login-platform"
@@ -106,7 +106,7 @@
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://gando.pro/blog",
           "icon": "newspaper"
         }
       ]
