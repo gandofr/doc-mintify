@@ -26,8 +26,6 @@
             "group": "General",
             "pages": [
               "general/sign-up",
-              "general/forgotpassword",
-              "general/cant-login-platform"
               {
                 "group": "Compte",
                 "pages": [
@@ -42,7 +40,9 @@
                   "general/billing/fees",
                   "general/billing/invoicing"
                 ]
-              }
+              },
+              "general/forgotpassword",
+              "general/cant-login-platform"
             ] 
           },
           {
