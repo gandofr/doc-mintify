@@ -38,12 +38,20 @@
             ]
           },
           {
-            "group": "Test",
+            "group": "General",
             "pages": [
               {
-                "group": "Test1",
+                "group": "Compte",
                 "pages": [
-                  "test/test1/a"
+                  "general/account/sign-up",
+                  "general/account/forgotpassword"
+                ]
+              },
+              {
+                "group": "Abonnement et facturation",
+                "pages": [
+                  "general/billing/fees",
+                  "general/billing/invoicing"
                 ]
               }
             ] 
