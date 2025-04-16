@@ -29,6 +29,8 @@
                 "group": "Compte",
                 "pages": [
                   "general/account/sign-up",
+                  "general/account/cant-login-platform",
+                  "general/account/identity",
                   "general/account/forgotpassword"
                 ]
               },
