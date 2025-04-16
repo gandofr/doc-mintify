@@ -38,6 +38,17 @@
             ]
           },
           {
+            "group": "Test",
+            "pages": [
+              {
+                "group": "Test1",
+                "pages": [
+                  "test/test1/a"
+                ]
+              }
+            ] 
+          },
+          {
             "group": "Conditions et Confidentialié",
             "pages": [
               "terms-policy/cguv",
