@@ -23,21 +23,6 @@
             ]
           },
           {
-            "group": "Compte",
-            "pages": [
-              "account/sign-up",
-              "account/forgotpassword",
-              "account/cant-login-platform"
-            ]
-          },
-          {
-            "group": "Abonnement et facturation",
-            "pages": [
-              "billing/invoicing",
-              "billing/fees"
-            ]
-          },
-          {
             "group": "General",
             "pages": [
               {
