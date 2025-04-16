@@ -25,14 +25,19 @@
           {
             "group": "General",
             "pages": [
+              "general/sign-up"
+            ]
               {
                 "group": "Compte",
                 "pages": [
-                  "general/account/sign-up",
-                  "general/account/cant-login-platform",
+                  "general/account/info-account",
                   "general/account/identity",
-                  "general/account/forgotpassword"
+                  "general/account/bank"
                 ]
+             "pages": [
+               "general/forgotpassword",
+               "general/cant-login-platform"
+             ]
               },
               {
                 "group": "Abonnement et facturation",
